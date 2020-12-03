@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottemuiActivity</string>
+    <string name="home">HOME</string>
+    <string name="add">ADD</string>
+    <string name="view">View</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
